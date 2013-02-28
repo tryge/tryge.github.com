@@ -1,0 +1,31 @@
+code.go {
+	font-size: large;
+}
+
+code.go span.kd {
+	color: rgb(250, 200, 100);
+}
+
+code.go span.kt {
+	color: rgb(250, 200, 100);
+}
+
+code.go span.kn {
+	color: rgb(250, 200, 100);
+}
+
+code.go span.k {
+	color: rgb(250, 200, 100);
+}
+
+code.go span.mi {
+	color: rgb(140, 190, 100);
+}
+
+code.go span.s {
+	color: rgb(140, 190, 100);
+}
+
+code.go span.c1 {
+	color: rgb(160, 160, 160);
+}

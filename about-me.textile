@@ -1,0 +1,25 @@
+---
+layout: default
+title: About Me
+about: true
+---
+
+<article>
+
+<header>
+h2. Michael Zehender
+
+h3. Born, Sept. 7th 1985
+</header>
+
+p. Thank you for your interest about the author of this blog. I'm Michael Zehender and I work at <a href="http://www.in-aut.at">IN-AUT Intelligent Automation Solutions GmbH</a> where I bear the responsibility of the CTO. This is my personal blog that is entirely independent from IN-AUT. My articles and my comments are my own and don't necessarily represent my employers position, strategies or opinions.
+
+p. I am also a student at the <a href="http://www.tuwien.ac.at/en/tuwien_home/">Technical University of Vienna</a>. I've just begun to study technical mathematics. That is because I recently became very interested in mathematics, thus leading me to study some more.
+
+p. I am also very successful as a software craftsman in my professional career. My main focus lies on systems within the telecommunications business but I recently also streamline my energy on general purpose middleware to let different systems coordinate each other efficiently. 
+
+p. I might be young but I started my career when I was 16. I was still at school at that time but I've begun to work as a programmer along the way. I deeply care about the things I do, therefore I'm always ambitious to get a result that I can be proud of.
+
+p. I know that perfection can't be reached, nevertheless I strive for it. This can be seen as an attempt to resemble a sequence where the limit value is the perfection. In other words I'll always try to improve. I hope this is reflected by this journal.
+
+</article>

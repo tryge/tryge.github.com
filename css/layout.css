@@ -1,0 +1,146 @@
+body {
+	padding: 0;
+	margin: 0;
+	
+	background-image: url('../images/tryge-page-background.png');
+	background-repeat: repeat;
+	
+	font-family: 'Jura', sans-serif;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	color: #ffac27;
+}
+
+p {
+	line-height: 150%;
+}
+
+#pageHeader {
+	padding: 0;
+	margin: 0;
+	
+	height: 119px;
+	width: 100%;
+	
+	background-image: url('../images/tryge-header-background.png');
+	background-repeat: repeat-x;
+}
+
+#pageFooter {
+	padding: 0;
+	margin: 0;
+	
+	width: 100%;
+	height: 180px;
+	
+	border-top: #ffac27 solid 1px;
+	background-image: url('../images/tryge-footer-background.png');
+	background-repeat: repeat;
+}
+
+#pageFooter p {
+	margin-top: 20px;
+	
+	font-size: smaller;
+}
+
+.content {
+	margin: auto;
+	width: 1340px;
+}
+
+#logo {
+	float: left;
+}
+
+#pageNav {
+	display: inline;
+}
+
+#pageNav ul {
+	display: inline;
+	list-style-type: none;
+}
+
+#pageNav ul li {
+	float: right;
+	
+	margin-top: 50px;
+	margin-left: 50px;
+	
+	color: #ffac27;
+}
+
+#pageNav ul li a.selected {
+	color: white;
+}
+
+#content {
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	
+	width: 1340px;
+}
+
+article {
+	padding: 30px;
+	margin-bottom: 50px;
+	
+	background-image: url('../images/tryge-article-background.png');
+	background-repeat: repeat;
+}
+
+article h2 {
+	font-family: 'Syncopate';
+	font-size: medium;
+	color: #ffac27;
+}
+
+article h3 {
+	font-weight: bold;
+	font-style: italic;
+	font-size: large;
+	color: #ffac27;
+}
+
+article p {
+	font-size: large;
+}
+
+article a {
+	text-decoration: underline;
+}
+
+article header {
+	margin-left: -30px;
+	margin-top: -30px;
+	padding: 30px;
+	
+	width: 100%;
+	
+	background-image: url('../images/tryge-article-header-background.png');
+	background-repeat: repeat;
+}
+
+article header h2 {
+	margin: 0;
+	font-size: large;
+}
+
+article header h3 {
+	margin: 0;
+	margin-left: 10px;
+	
+	font-size: medium;
+	color: #cecece;
+}
+
+.highlight {
+	padding: 10px;
+	background: rgb(40, 50, 70);
+	border: 1px dashed gray;
+}

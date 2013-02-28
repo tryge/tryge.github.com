@@ -1,0 +1,31 @@
+---
+layout: default
+title: Journal
+journal: true
+---
+{% for post in paginator.posts %}
+	<article>
+		<header>
+			<h2>{{post.title}}</h2>
+			<h3>Post #{{post.number}}: {{post.author}}, {{post.date| date: "%Y-%m-%d"}}</h3>
+		</header>
+
+		{{ post.content }}
+		
+		<footer>
+			<a href="http://www.tryge.com{{ post.url }}#disqus_thread"> Comments</a>
+		</footer>
+	</article>
+{% endfor %}
+
+{% comment %}
+<center>
+	{% if paginator.previous_page %}
+	    <a href="/page{{paginator.previous_page}}">Previous</a>
+	{% endif %}
+	<span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+	{% if paginator.next_page %}
+		<a href="/page{{ paginator.next_page }}"> Next </a>
+	{% endif %}
+</center>
+{% endcomment %}
