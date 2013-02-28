@@ -3,6 +3,8 @@ author: michael
 title: Go Controversial 1 - What about proper Constructors?
 layout: blog
 number: 1
+tags:
+- golang
 ---
 
 <p>
