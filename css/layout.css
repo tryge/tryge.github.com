@@ -92,6 +92,8 @@ article {
 	
 	background-image: url('../images/tryge-article-background.png');
 	background-repeat: repeat;
+	
+	font-size: large;
 }
 
 article h2 {
@@ -105,10 +107,6 @@ article h3 {
 	font-style: italic;
 	font-size: large;
 	color: #ffac27;
-}
-
-article p {
-	font-size: large;
 }
 
 article a {
