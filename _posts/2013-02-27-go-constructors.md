@@ -5,6 +5,9 @@ layout: blog
 number: 1
 tags:
 - golang
+keywords:
+- golang
+- constructors
 ---
 
 <p>
