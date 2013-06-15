@@ -163,7 +163,7 @@ This will again take a while and if you followed all the steps the compilation s
 <h2> Final Notes </h2>
 
 <p>
-Most of the steps I presented here are from the <a href="">official android documentation</a> and I recommend reading these docs for further information or troubleshooting. I hope I could help some of you :)
+Most of the steps I presented here are from the <a href="http://source.android.com/source/index.html">official android documentation</a> and I recommend reading these docs for further information or troubleshooting. I hope I could help some of you :)
 </p>
 
 
