@@ -68,8 +68,10 @@ p {
 #pageNav ul li {
 	float: right;
 	
-	margin-top: 50px;
+	margin-top: 40px;
 	margin-left: 50px;
+	
+	line-height: 32px;
 	
 	color: #ffac27;
 }
