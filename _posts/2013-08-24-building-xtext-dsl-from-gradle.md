@@ -28,7 +28,7 @@ keywords:
 	I used the 'MyDsl' stub that eclipse uses to initialize an xtext project i.e. our grammar looks like this:
 </p>
 
-{% highlight %}
+{% highlight antlr %}
 grammar org.xtext.example.mydsl.MyDsl with org.eclipse.xtext.common.Terminals
 
 generate myDsl "http://www.xtext.org/example/mydsl/MyDsl"
@@ -44,7 +44,7 @@ Greeting:
 	Then I wrote my MWE generator script that uses a different structure than eclipse does.
 </p>
 
-{% highlight %}
+<div class='highlight'><pre>
 module org.xtext.example.mydsl.GenerateMyDsl
 
 import org.eclipse.emf.mwe.utils.*
@@ -90,7 +90,7 @@ Workflow {
     	}
     }
 }
-{% endhighlight %}
+</pre></div>
 
 <p>
 	Anyone who has gone through the experience of customizing the generated mwe script should find his way with ease. However, for those of you who haven't had the pleaseure I'll briefly explain the differences that I introduced.
