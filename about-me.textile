@@ -16,7 +16,7 @@ p. Thank you for your interest about the author of this blog. I'm Michael Zehend
 
 p. I am also a student at the <a href="http://www.tuwien.ac.at/en/tuwien_home/">Technical University of Vienna</a>. I've just begun to study technical mathematics. That is because I recently became very interested in mathematics, thus leading me to study some more.
 
-p. I am also very successful as a software craftsman in my professional career. My main focus lies on systems within the telecommunications business but I recently also streamline my energy on general purpose middleware to let different systems coordinate each other efficiently. 
+p. I am also very successful as a software craftsman in my professional career. My main focus lies on systems within the telecommunications business but I recently also streamlined my energy on general purpose middleware to let different systems coordinate each other efficiently. 
 
 p. I might be young but I started my career when I was 16. I was still at school at that time but I've begun to work as a programmer along the way. I deeply care about the things I do, therefore I'm always ambitious to get a result that I can be proud of.
 
